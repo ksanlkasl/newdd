@@ -1,0 +1,9 @@
+.container .fade{
+  
+    display: none;
+    
+}
+.container .in{
+    display: block;
+    width: 100%;
+}
